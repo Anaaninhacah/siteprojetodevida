@@ -2,16 +2,16 @@
 
 :root{
     --cor-de-fundo: #e28e8e;
-    --verde: #6FFF57;
+    --verde: #6557ff;
     --branco:  #FFFFFF;
-    --botao-ativo: #3a375E;
-    --botao-inativo: rgba(58, 55, 94, 0.5);
+    --botao-ativo: #ff00f2;
+    --botao-inativo: rgba(167, 0, 36, 0.5);
     --texto-fundo:rgba(233, 151, 171, 0.3);
 }
 
 body{ 
     background-color: var(--cor-de-fundo);
-    color: var(--branco)
+    color: var(--branco);
     font-family: ´Chakra Petch´ , sans-serif;
     
 }
