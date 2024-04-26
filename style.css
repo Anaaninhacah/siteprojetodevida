@@ -33,7 +33,7 @@ body{
 }
 
 .titulo-principal span{
-    color: var(--verde);
+    color: var(--cor-de-fundo);
 }
 
 .botao{
@@ -52,7 +52,7 @@ body{
         border-top: none;
     }
 
-    .botao:first-child {
+    botao:first-child {
         border-radius: 40px 40px 0 0;
     }
     
